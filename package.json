@@ -1,0 +1,26 @@
+{
+  "name": "sequelized_the_sequel",
+  "version": "1.0.0",
+  "description": "let's try this again",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iwasnevergivenaname/sequelized_the_sequel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iwasnevergivenaname/sequelized_the_sequel/issues"
+  },
+  "homepage": "https://github.com/iwasnevergivenaname/sequelized_the_sequel#readme",
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "express": "^4.17.1",
+    "pg": "^8.3.0",
+    "sequelize": "^6.3.4"
+  }
+}
